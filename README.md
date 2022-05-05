@@ -1,4 +1,4 @@
-## Mach Bands in Shading Algorithms · Progetto di P.M.P · AA 2021 - 2022 
+## Mach Bands in Shading Algorithms  ·  Progetto di P.M.P  ·  AA 2021 - 2022 
 
 ### Index
 
