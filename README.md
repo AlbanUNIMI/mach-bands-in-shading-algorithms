@@ -1,6 +1,6 @@
-# Mach Bands in Shading Algorithms · P.M.P AA 2021 - 2022 
+## Mach Bands in Shading Algorithms · P.M.P AA 2021 - 2022 
 
-## Index
+### Index
 
    ....... ............... ... . ......................
    .. ...... ............... ... . ......................
